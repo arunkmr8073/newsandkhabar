@@ -1,0 +1,2 @@
+# newsandkhabar
+repo for news
